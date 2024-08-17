@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+postman
+uuid
+pydantic
+typing
